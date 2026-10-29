@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+openpyxl
+jinja2
+requests
+beautifulsoup4
+lxml
